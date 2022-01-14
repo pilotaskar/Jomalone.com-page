@@ -1,0 +1,23 @@
+*{
+    margin: 0; padding: 0;
+}
+
+header{
+    height: 50vh;
+    background-color: #FCF9EE;
+}
+
+main{
+    height: 200vh;
+    background-color:#FCF9EE ;
+}
+
+footer{
+    height: 70vh;
+    background-color: #FFFFFF;
+}
+
+#footer-line{
+    height: 3vh;
+    background-color: #FCF9EE;
+}
