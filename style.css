@@ -1,10 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300&family=Montserrat:wght@100;400&family=Nunito:wght@200;300;400;600;700&family=Poppins:wght@300&display=swap');
+
 *{
     margin: 0; padding: 0;
+    font-family: 'Montserrat', sans-serif;
 }
 
 header{
-    height: 50vh;
+    height: 20vh;
     background-color: #FCF9EE;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav{
+    margin-top: 20px;
+}
+
+nav  a{
+    text-decoration: none;
+    padding: 30px;
+    color: #1C1C1C;
+    
+}
+
+
+#extra-nav{
+    
+    background-color: #FCF9EE;
+}
+#extra-nav a{
+   color: #1C1C1C;
+   text-decoration: none;
+   background-color: #FCF9EE;
+   margin-left: 30px;
+}
+
+#logo{
+    text-align: center;
+    margin-right: 200px;
+    margin-top: 20px;
+    color: #1C1C1C;
+}
+
+#icons i{
+ padding: 15px;
+ margin-top: 10px;
+ color: #1C1C1C;
+}
+
+section{
+    padding: 40px;
+    text-align: center;
+    background-color: #FCF9EE;
+}
+
+section h1{
+    margin-bottom: 20px;
+    
 }
 
 main{
